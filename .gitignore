@@ -37,6 +37,5 @@ ehthumbs.db
 Thumbs.db
 
 #Data files
-__MACOSX/*
-full_history/*
-full_history_backup/*
+
+data/*
