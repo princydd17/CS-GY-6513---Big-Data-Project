@@ -1,4 +1,5 @@
-# CS-GY-6513: Big Data Project - Analysis and Prediction of Stock Prices Using Yahoo Finance Dataset
+# CS-GY-6513: Big Data Project
+# Analysis and Prediction of Stock Prices Using Yahoo Finance Dataset
 
 
 ## Abstract
