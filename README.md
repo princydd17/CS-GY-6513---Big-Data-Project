@@ -1,4 +1,5 @@
-# CS-GY-6513: Big Data Project
+# CS-GY-6513: Big Data Project - Analysis and Prediction of Stock Prices Using Yahoo Finance Dataset
+
 
 ## Abstract
 Stock price prediction is crucial for financial analysis, helping investors and institutions make informed decisions. The vast and constantly evolving nature of stock market data makes prediction challenging. Stock prices change rapidly, generating massive amounts of real-time data, while historical records spanning years or decades contribute millions of data points per stock.
